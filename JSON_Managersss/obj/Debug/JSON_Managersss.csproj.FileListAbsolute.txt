@@ -1,0 +1,13 @@
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\bin\Debug\JSON_Managersss.exe.config
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\bin\Debug\JSON_Managersss.exe
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\bin\Debug\JSON_Managersss.pdb
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.csproj.AssemblyReference.cache
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.Form1.resources
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.Properties.Resources.resources
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.csproj.GenerateResource.cache
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.csproj.CoreCompileInputs.cache
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.csproj.CopyComplete
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.exe
+C:\Users\Maksim\source\repos\JSON_Managersss\JSON_Managersss\obj\Debug\JSON_Managersss.pdb
