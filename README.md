@@ -21,6 +21,6 @@ In this program, there's a tree view, and you can to create and delete nodes the
     - **Click "Add node".**
     - **Done!** <br>
   ![image](https://github.com/MaxDubinsky/json-manager/assets/112071690/b616dc96-d499-41cf-a6ba-a4295a60633b) <br>
-- If you're done, write a name of the file there and click "Save file" button.![Uploading image.png…]()
+- If you're done, write a name of the file there and click "Save file" button.![image](https://github.com/MaxDubinsky/json-manager/assets/112071690/b031fd82-6574-4900-a6cb-73f14ac057ca)
 - Choose the directory.
 - Done!
