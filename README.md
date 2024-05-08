@@ -5,3 +5,4 @@ In this program, there's a tree view, and you can to create and delete nodes the
 ### Used packages:
 - Newtonsoft Json.
 ### Screenshots of program:
+![Untitled](https://github.com/MaxDubinsky/json-manager/assets/112071690/6d618d22-a044-48a4-ba21-e2de8a4ab301)
